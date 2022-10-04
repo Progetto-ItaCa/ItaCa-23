@@ -8,7 +8,7 @@
 # For technical reasons, this file is *NOT* reloaded automatically when you use
 # 'bundle exec jekyll serve'. If you change this file, please restart the server process.
 #
-# If you need help with YAML syntax, here are some quick references for you: 
+# If you need help with YAML syntax, here are some quick references for you:
 # https://learn-the-web.algonquindesign.ca/topics/markdown-yaml-cheat-sheet/#yaml
 # https://learnxinyminutes.com/docs/yaml/
 #
@@ -18,16 +18,16 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: ItaCa 2021 
+title: ItaCa 2022
 # email: your-email@example.com
-description: 2nd ItaCa Workshop # >- # this means to ignore newlines until "baseurl:"
-baseurl: "/itaca-workshop-2021" # the subpath of your site, e.g. /blog
+description: 3rd ItaCa Workshop # >- # this means to ignore newlines until "baseurl:"
+baseurl: "/itaca-22" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
-author: 
-  - name: ItaCa 
-    url: https://progetto-itaca.github.io/ 
-  - name: Genoa Logic Group 
-    url: http://logic.dima.unige.it 
+author:
+  - name: ItaCa
+    url: https://progetto-itaca.github.io/
+  # - name: Genoa Logic Group
+  #   url: http://logic.dima.unige.it
 # twitter_username: jekyllrb
 # github_username:  jekyll
 
@@ -36,12 +36,12 @@ theme: minima
 plugins:
   - jekyll-feed
 
-header_pages: 
+header_pages:
  - programme.md
- - speakers.md 
- - participants.md 
+ - speakers.md
+ - participants.md
  - sub-reg.md
- - venue.md 
+ - venue.md
 
 
 # Exclude from processing.
