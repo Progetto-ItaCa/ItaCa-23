@@ -20,7 +20,7 @@ Please write from the same email address that you used for registering.
 If you want to give a talk, please submit an abstract (max 1 page in
 pdf) to:
 
-francesco.gavazzo [at] unipi [dot] it
+francesco [dot] gavazzo [at] unipi [dot] it
 
 no later than **November 20**. Talks will be approximately 30 minutes long.
 We plan to schedule talks on Monday afternoon and Tuesday morning.

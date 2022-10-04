@@ -13,15 +13,15 @@ layout: page
 * [Davide Trotta](https://www.di.univr.it/?ent=persona&id=42247&lang=en) (Università di Pisa)
 
 ## Organising Committee 
-* Davide Trotta (Università di Pisa)  
+* [Davide Trotta](https://www.di.univr.it/?ent=persona&id=42247&lang=en)  (Università di Pisa)  
 e-mail: davide [dot] trotta [at] di [dot] unipi [dot] it 
-* [Francesco Gavazzo](https://fdgn.github.io/) (Università di Pisa)  
+* [Francesco Gavazzo](https://sites.google.com/view/francescogavazzo/home) (Università di Pisa)  
 e-mail: francesco [dot] gavazzo [at] unipi [dot] it
-* [Fabio Gadducci](https://jacopoemmenegger.wordpress.com/) (Università di Genova)  
+* [Fabio Gadducci](https://pages.di.unipi.it/gadducci/) (Università di Pisa)  
 <!-- e-mail: emmenegger [at] dima [dot] unige [dot] it --> 
-* [Filippo Bonchi](https://enricoghiorzi.github.io) (Istituto Italiano di Tecnologia)  
+* Filippo Bonchi (Università di Pisa)  
 <!-- e-mail: enrico [dot] ghiorzi [at] gmail [dot] com  -->
-* [Alessandro Di Giorgio](https://enricoghiorzi.github.io) (Università di Pisa)  
+* Alessandro Di Giorgio(Università di Pisa)  
 <!-- e-mail: enrico [dot] ghiorzi [at] gmail [dot] com  -->
 
 
