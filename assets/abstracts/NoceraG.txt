@@ -1,0 +1,5 @@
+Guglielmo Nocera
+
+E_k-centers of monoidal infinity categories.
+
+The notion of Drinfeld center of a monoidal category generalizes to the notion of E_k center of an E_k-monoidal (infinity) category, where E_k is the k-dimensional little cubes operad. I will briefly explain some ideas underlying this theory and provide an application in derived algebraic geometry.
