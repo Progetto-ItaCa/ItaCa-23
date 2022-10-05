@@ -22,6 +22,10 @@ The workshop will take place in person, but we plan to stream the talks on the I
 |**Workshop**             | 21-22 December 2022 |
 
 
+## Invited Speakers
+* [Marco Maggesi](https://sites.google.com/unifi.it/maggesi/) (Università di Firenze) 
+* [Fabio Zanasi](http://www.zanasi.com/fabio/#/main.html) (University College London)
+
 ## Contacts 
 
 For inquiries, please send an e-mail to one of the organisers. 
@@ -30,6 +34,7 @@ For inquiries, please send an e-mail to one of the organisers.
 ## Program Committee
 * [Francesco Dagnino](https://fdgn.github.io) (Università di Genova) 
 * [Francesco Gavazzo](https://sites.google.com/view/francescogavazzo/home) (Università di Pisa)
+* [Serafina Lapenta](https://serafinalapenta.weebly.com) (Università del Salento)
 * [Vincenzo Marra](http://marra.di.unimi.it) (Università di Milano)
 * [Samuele Maschio](https://sites.google.com/view/samuelemaschio/home) (Università di Padova)
 * [Davide Trotta](https://www.di.univr.it/?ent=persona&id=42247&lang=en) (Università di Pisa)
