@@ -1,5 +1,0 @@
-Morgan Rogers
-
-Topological Semi-Galois Theory
-
-We transform a characterization of toposes of topological monoid actions into a sufficient condition for a given site to produce such a topos, and extract from this a novel semi-Galois theory; that is, an equivalence between a given category and a category of congruences on a topological monoid, rather than a topological group as in Galois theory. A key result in the development involves extending a factorization system to the inductive completion of a category. We sketch some examples of semi-Galois theory and explain how Caramello's topos-theoretic presentation of Topological Galois Theory can be recovered as a special case.
