@@ -2,5 +2,14 @@
   affiliation: University of nowhere
   title: Every diagram commutes
   abs: "file.pdf"
-  slot: "3b"
-  time: "18.00 - 18.30"
+  slot: "1a"
+- author: John Doe
+  affiliation: University of nowhere
+  title: Every diagram commutes
+  abs: "file.pdf"
+  slot: "1b"
+- author: John Doe
+  affiliation: University of nowhere
+  title: Every diagram commutes
+  abs: "file.pdf"
+  slot: "2a"

@@ -1,3 +1,6 @@
 - name: "John Does"
   surname: "Does"
   affiliation: "University of nowhere"
+- name: "John Does"
+  surname: "ZDoes"
+  affiliation: "University of nowhere"
