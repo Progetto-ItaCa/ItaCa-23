@@ -1,5 +1,0 @@
-Giulio Lo Monaco
-
-Vopěnka's principle in oo-categories
-
-Vopěnka's principle has arisen as a model theoretical statement, provably independent of ZFC set theory. However, there are a number of categorical ways of formulating it, preventing the existence of proper classes of objects with some conditions in presentable categories, and these are what our attention will be focused on. In particular, we will look at analogous statements in the context of oo-categories and we will ask how these new statements interact with the older ones. Moreover, some of the consequences of Vopěnka's principle on classes of subcategories of presentable categories are investigated and to some extent generalized to oo-categories. A parallel discussion is undertaken about the similar but weaker statement known as weak Vopěnka's principle.

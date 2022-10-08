@@ -6,13 +6,13 @@ layout: page
 ---
 
 {%- assign abs_url = '/assets/abstracts/' %} 
-{%- assign sessions = site.data.schedule|  %} 
 
 <table>
   <tbody> 
-{% for s in sessions %} 
-{{ s.start-code }} 
-{% for slot in s.slots %}
+{%- for d in site.data.schedule %}
+<tr> <th colspan="2"> {{ d.day }} </th> </tr> 
+{%- for slot in d.slots %}
+{%- if slot.type == "talk" %} 
 {%- assign talks = site.data.talks | where_exp: "item", "item.slot == slot.id" %} 
 {%- for t in talks %} 
 <tr>
@@ -21,9 +21,14 @@ layout: page
     <a href="{{ t.abs | prepend: abs_url | relative_url }}" target="_blank">{{ t.author }}</a> 
   </td>
 </tr> 
-{% endfor %} 
-{% endfor %} 
-{{ s.end-code }} 
+{%- endfor %} 
+{%- else %}
+<tr>
+  <td> <strong>{{ slot.time }}</strong> </td>
+  <td> <strong>{{ slot.type }}</strong> </td>
+</tr> 
+{%- endif %} 
+{%- endfor %} 
 {% endfor %} 
 </tbody> </table> 
 

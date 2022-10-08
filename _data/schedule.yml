@@ -1,19 +1,18 @@
-- start-code: | 
-    <tr> <th colspan="2">  Monday 20 December </th> </tr> 
-    <tr> <td> 13.00 - 13.25 </td> <td><strong>registration</strong></td> </tr> 
-    <tr> <td> 13.25 - 13.30 </td> <td><strong>opening</strong></td> </tr> 
+- day: "Monday 21 December" 
   slots: 
-  - id: "1a" 
+  - type: "registration"
+    time: "13.00 - 14.00" 
+  - type: "talk" 
+    id: "1a" 
     time: "09.00 - 09.30"
-  - id: "1b" 
+  - type: "talk" 
+    id: "1b" 
     time: "09.30 - 10.00" 
-  end-code: |
-    <tr> 
-    <td> 15.00 - 15.30 </td>
-    <td> <strong>coffee break</strong> </td>
-    </tr> 
-- start-code: "" 
+  - type: "coffee break" 
+    time: "15.00 - 15.30" 
+- day: "Tuesdaty 22 December" 
   slots: 
-  - id: "2a" 
+  - type: "talk" 
+    id: "2a" 
     time: "10.30 - 11.00" 
-  end-code: "" 
+

@@ -1,8 +1,0 @@
-Antonio Lorenzin
-
-Some developments on existence and uniqueness of DG-enhancements
-
-In this talk, we discuss some developments about the existence and the (strong) uniqueness of DG-enhancements for triangulated categories.
-First, we deal with triangulated categories having a full strong exceptional sequence and explain when they admit a DG-enhancement.
-Secondly, we consider the triangulated category of vector spaces over a field K, where the shift is the identity. It is well-known that this category does not have a unique DG-enhancement. However, the uniqueness holds for K-linear DG-enhancements. The proof uses the notion of intrinsical formality, a property of graded algebras.
-Finally, we explore a new direction on strongly unique enhancements. In particular, this approach works for linearity over any ring; consequently, many examples can be generalized.
