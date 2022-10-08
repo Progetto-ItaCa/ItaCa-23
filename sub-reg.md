@@ -5,14 +5,11 @@ permalink: /register-submit/
 layout: page
 ---
 
-
-If you want to attend the workshop, please fill in the form available [here](??).
+If you want to attend the workshop, please fill in the form available [here](https://docs.google.com/forms/d/1vM7DbV0QhztSaF2-1WWBJxI-wnLZO8ajz5WiMq_pcdE/edit).
 
 The registration deadline is **December 5**.
 Participation is free of charge.
 
-
-Please write from the same email address that you used for registering.
 
 
 ## Submission of talk proposals
