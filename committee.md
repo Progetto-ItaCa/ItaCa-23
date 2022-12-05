@@ -8,7 +8,7 @@ layout: page
 ## Program Committee
 * [Francesco Dagnino](https://fdgn.github.io) (Università di Genova) 
 * [Francesco Gavazzo](https://sites.google.com/view/francescogavazzo/home) (Università di Pisa)
-* [Serafina Lapenta](https://serafinalapenta.weebly.com) (Università del Salento)
+* [Serafina Lapenta](https://serafinalapenta.weebly.com) (Università del Salerno)
 * [Vincenzo Marra](http://marra.di.unimi.it) (Università di Milano)
 * [Samuele Maschio](https://sites.google.com/view/samuelemaschio/home) (Università di Padova)
 * [Davide Trotta](https://www.di.univr.it/?ent=persona&id=42247&lang=en) (Università di Pisa)

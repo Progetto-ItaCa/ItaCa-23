@@ -20,4 +20,4 @@ pdf) to:
 francesco [dot] gavazzo [at] unipi [dot] it
 
 no later than **November 20**. Talks will be approximately 30 minutes long.
-We plan to schedule talks on Monday afternoon and Tuesday morning.
+
