@@ -1,5 +1,5 @@
 ---
-title: Submission and Registration
+title: Registration
 permalink: /register-submit/
 
 layout: page
