@@ -1,4 +1,4 @@
-- author: Mateo Abbadini 
+- author: Marco Abbadini 
   affiliation: "University of Salerno" 
   title: "An approach `a la de Vries to compact Hausdorff spaces and closed relations" 
   abs: "abbadini.pdf" 
@@ -43,10 +43,10 @@
   title: "Categorical Semantics for Counterpart-based Temporal Logics in Agda" 
   abs: "laretto.pdf" 
   slot: "" 
-- author: Fosco Loreggian 
+- author: Fosco Loregian 
   affiliation: "Tallinn University of Technology" 
   title: A few remarks of the fibration of algebras
-  abs: "loreggian.pdf" 
+  abs: "loregian.pdf" 
   slot: "" 
 - author: Luca Mesiti
   affiliation: University of Leeds
