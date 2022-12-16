@@ -37,7 +37,7 @@ For inquiries, please send an e-mail to one of the organisers.
 * [Serafina Lapenta](https://serafinalapenta.weebly.com) (Università del Salerno)
 * [Vincenzo Marra](http://marra.di.unimi.it) (Università di Milano)
 * [Samuele Maschio](https://sites.google.com/view/samuelemaschio/home) (Università di Padova)
-* [Davide Trotta](https://www.di.univr.it/?ent=persona&id=42247&lang=en) (Università di Pisa)
+* [Davide Trotta](https://trottadavide.github.io/) (Università di Pisa)
 
 ## Organising Committee 
 * [Davide Trotta](https://www.di.univr.it/?ent=persona&id=42247&lang=en)  (Università di Pisa)  
