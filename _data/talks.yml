@@ -1,3 +1,14 @@
+invited: 
+  - author: Marco Maggesi 
+    affiliation: Università di Firenze
+    title: TBA
+    abs: "tba.txt"
+    slot: ""
+  - author: Fabio Zanasi 
+    affiliation: University College London
+    title: TBA 
+    abs: "tba.txt" 
+    slot: "" 
 accepted:
   - author: Marco Abbadini 
     affiliation: "University of Salerno" 
