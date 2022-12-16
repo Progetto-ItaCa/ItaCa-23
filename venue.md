@@ -12,9 +12,6 @@ Dipartimento di Informatica, Università di Pisa
 Largo Bruno Pontecorvo, 3
 Pisa (PI) - Italy
 
-### Suggestions for lunch
-
-* [Coming soon.](??)
 
 <br>
 
