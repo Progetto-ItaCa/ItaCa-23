@@ -13,7 +13,11 @@ layout: page
 <tr> <th colspan="2"> {{ d.day }} </th> </tr> 
 {%- for slot in d.slots %}
 {%- if slot.type == "talk" %} 
-{%- assign talks = site.data.talks | where_exp: "item", "item.slot == slot.id" %} 
+{%- if slot.invited %} 
+{%- assign talks = site.data.talks.invited | where_exp: "item", "item.slot == slot.id" %} 
+{%- else %} 
+{%- assign talks = site.data.talks.accepted | where_exp: "item", "item.slot == slot.id" %} 
+{%- endif %}
 {%- for t in talks %} 
 <tr>
   <td> {{ slot.time }} </td>

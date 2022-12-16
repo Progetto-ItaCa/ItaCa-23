@@ -3,38 +3,38 @@ invited:
     affiliation: Università di Firenze
     title: TBA
     abs: "tba.txt"
-    slot: ""
+    slot: "5a" 
   - author: Fabio Zanasi 
     affiliation: University College London
     title: TBA 
     abs: "tba.txt" 
-    slot: "" 
+    slot: "3a" 
 accepted:
   - author: Marco Abbadini 
     affiliation: "University of Salerno" 
     title: "An approach `a la de Vries to compact Hausdorff spaces and closed relations" 
     abs: "abbadini.pdf" 
-    slot: "" 
+    slot: "1a"
   - author: Federico Campanini 
     affiliation: "Université catholique de Louvain" 
     title: "Some recent results on pretorsion theories in lextensive categories" 
     abs: "campanini.pdf" 
-    slot: "" 
+    slot: "1b" 
   - author: Greta Coraglia
     affiliation: University of Genoa 
     title: "A fuzzy theory of types" 
     abs: "coraglia.pdf"
-    slot: "" 
+    slot: "2c" 
   - author: "Sophie d’Espalungue" 
     affiliation: "University of Lille" 
     title: "Internal pseudomonoidal structures and Day convolution in monoidal 2-categories" 
     abs: "despalungue.pdf" 
-    slot: "" 
+    slot: "5b"
   - author: Francesco Dagnino 
     affiliation: University of Genoa 
     title: "Relational doctrines, monads and lax algebras" 
     abs: "dagnino.pdf" 
-    slot: "" 
+    slot: "3b" 
   - author: Ivan Di Liberti 
     affiliation: "Stockholm University" 
     title: "The geometry of coherent topoi and ultrastructures" 
@@ -44,40 +44,40 @@ accepted:
     affiliation: "University of Leeds" 
     title: "Summability in algebras of generalized power series and beyond" 
     abs: "freni.pdf" 
-    slot: "" 
+    slot: "4a"
   - author: Andrea Gagna
     affiliation: "Institute of Mathematics, Czech Academy of Sciences" 
     title: "A categorical take on Steiner omega-categories" 
     abs: "gagna.pdf" 
-    slot: "" 
+    slot: "2a"
   - author: Andrea Laretto 
     affiliation: "Tallinn University of Technology" 
     title: "Categorical Semantics for Counterpart-based Temporal Logics in Agda" 
     abs: "laretto.pdf" 
-    slot: "" 
+    slot: "4c" 
   - author: Fosco Loregian 
     affiliation: "Tallinn University of Technology" 
     title: A few remarks of the fibration of algebras
     abs: "loregian.pdf" 
-    slot: "" 
+    slot: "1c"
   - author: Luca Mesiti
     affiliation: University of Leeds
     title: "Lax normal conical 2-limits and the Grothendieck construction" 
     abs: "mesiti.pdf" 
-    slot: "" 
+    slot: "2b"
   - author: Guglielmo Nocera
     affiliation: "Université Paris Sorbonne Paris Nord" 
     title: The Exodromy Theorem 
     abs: "nocera.pdf" 
-    slot: "" 
+    slot: "6a"
   - author: Matteo Spadetto 
     affiliation: University of Leeds 
     title: A conservativity-like result for a propositional type theory
     abs: "spadetto.pdf" 
-    slot: "" 
+    slot: "4b"
   - author: Ruben van Belle 
     affiliation: "University of Edinburgh" 
     title: "Radon-Nikodym derivates and martingales using category theory" 
     abs: "vanbelle.pdf" 
-    slot: "" 
+    slot: "6b"
 
