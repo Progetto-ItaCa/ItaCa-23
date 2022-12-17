@@ -41,7 +41,6 @@ To attend the workshop remotely, use the following links
 {% endfor %} 
 </tbody> </table> 
 
-**Note**: only coffee breaks are offered by the workshop organisation. Suggestions for lunch can be found [here]({{ '/venue/' | relative_url }}).
 
 
 
