@@ -1,8 +1,8 @@
 invited: 
   - author: Marco Maggesi 
     affiliation: Università di Firenze
-    title: TBA
-    abs: "tba.txt"
+    title: "Categories and Bicategories in UniMath" 
+    abs: "maggesi.txt" 
     slot: "5a" 
   - author: Fabio Zanasi 
     affiliation: University College London

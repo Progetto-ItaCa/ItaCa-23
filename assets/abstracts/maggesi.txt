@@ -1,0 +1,7 @@
+
+## Title 
+Categories and Bicategories in UniMath 
+
+## Abstract 
+We discuss the development of Category and Bicategory Theory in Univalent Foundations and illustrate its implementation in the Coq proof assistant using the UniMath library.
+
