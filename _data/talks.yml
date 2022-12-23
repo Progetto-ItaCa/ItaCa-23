@@ -6,8 +6,8 @@ invited:
     slot: "5a" 
   - author: Fabio Zanasi 
     affiliation: University College London
-    title: Categorical Foundations of Machine Learning 
-    abs: "tba.txt" 
+    title: Categorical Foundations of Machine Learning from Semantics to Verification 
+    abs: "zanasi.txt" 
     slot: "3a" 
 accepted:
   - author: Marco Abbadini 
@@ -44,7 +44,7 @@ accepted:
     affiliation: "University of Leeds" 
     title: "Summability in algebras of generalized power series and beyond" 
     abs: "freni.pdf" 
-    slot: "4a"
+    slot: "" 
   - author: Andrea Gagna
     affiliation: "Institute of Mathematics, Czech Academy of Sciences" 
     title: "A categorical take on Steiner omega-categories" 
@@ -69,7 +69,7 @@ accepted:
     affiliation: "Université Paris Sorbonne Paris Nord" 
     title: The Exodromy Theorem 
     abs: "nocera.pdf" 
-    slot: "6a"
+    slot: "4a"
   - author: Matteo Spadetto 
     affiliation: University of Leeds 
     title: A conservativity-like result for a propositional type theory
@@ -79,5 +79,5 @@ accepted:
     affiliation: "University of Edinburgh" 
     title: "Radon-Nikodym derivates and martingales using category theory" 
     abs: "vanbelle.pdf" 
-    slot: "6b"
+    slot: "6a"
 

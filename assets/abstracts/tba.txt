@@ -1,3 +1,0 @@
-
-Title: Categorical Foundations of Machine Learning 
-
