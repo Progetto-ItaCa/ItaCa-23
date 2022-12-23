@@ -44,12 +44,10 @@ For inquiries, please send an e-mail to one of the organisers.
 e-mail: davide [dot] trotta [at] di [dot] unipi [dot] it 
 * [Francesco Gavazzo](https://sites.google.com/view/francescogavazzo/home) (Università di Pisa)  
 e-mail: francesco [dot] gavazzo [at] unipi [dot] it
+* Luara Bussi (Università di Pisa) 
 * [Fabio Gadducci](https://pages.di.unipi.it/gadducci/) (Università di Pisa)  
-<!-- e-mail: emmenegger [at] dima [dot] unige [dot] it --> 
 * Filippo Bonchi (Università di Pisa)  
-<!-- e-mail: enrico [dot] ghiorzi [at] gmail [dot] com  -->
-* Alessandro Di Giorgio(Università di Pisa)  
-<!-- e-mail: enrico [dot] ghiorzi [at] gmail [dot] com  -->
+* Alessandro Di Giorgio (Università di Pisa)  
 
 
 
