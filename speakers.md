@@ -25,7 +25,7 @@ layout: page
 
 
 {%- if site.data.talks.accepted -%}
-## Accepted Talks 
+## Contributed Talks 
 {% for t in site.data.talks.accepted %}
 {% if t.url %}
 [{{ t.author }}]({{ t.url }}) ({{ t.affiliation }})  
