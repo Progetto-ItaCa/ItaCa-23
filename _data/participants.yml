@@ -1,6 +1,154 @@
-- name: "John Does"
-  surname: "Does"
-  affiliation: "University of nowhere"
-- name: "John Does"
-  surname: "ZDoes"
-  affiliation: "University of nowhere"
+- name: Haoyu 
+  surname: Sun 
+  affiliation: "UT Austin" 
+- name: Francesca
+  surname: Pratali
+  affiliation: "Université Sorbonne Paris Nord" 
+- name: Edoardo	
+  surname: Lanari 
+  affiliation: "Capital Fund Management" 
+- name: Francesca
+  surname: Guffanti
+  affiliation: "Università di Milano" 
+- name: Francesco
+  surname: Minnocci	
+  affiliation: "University of Pisa" 
+- name: Guglielmo	
+  surname: Nocera	
+  affiliation: "Université Paris Sorbonne Paris Nord" 
+- name: Joseph	
+  surname: Dimos	
+  affiliation: ""   
+- name: Matteo	
+  surname: Capucci	
+  affiliation: "University of Strathclyde" 
+- name: Andrea	
+  surname: Laretto	
+  affiliation: "Tallinn University of Technology" 
+- name: Andrea	
+  surname: Gagna	
+  affiliation: "Institute of Mathematics, Czech Academy of Sciences" 
+- name: Lucio	
+  surname: Tanzini	
+  affiliation: "Università di Pisa" 
+- name: Giacomo	
+  surname: Tendas	
+  affiliation: "Masaryk University" 
+- name: Luca	
+  surname: Bruni	
+  affiliation: "Scuola Normale Superiore" 
+- name: Greta	
+  surname: Coraglia	
+  affiliation: "Università di Genova" 
+- name: Utku	
+  surname: Boduroglu	
+  affiliation: METU
+- name: Andrea	
+  surname: Cappelletti	
+  affiliation: "Università di Milano" 
+- name: Federico	
+  surname: Campanini	
+  affiliation: "Université catholique de Louvain" 
+- name: Riccardo	
+  surname: Venturi	
+  affiliation: "Università di Trento" 
+- name: Francesco	
+  surname: Dagnino	
+  affiliation: "Università di Genova" 
+- name: Pietro	
+  surname: Freni	
+  affiliation: "University of Leeds" 
+- name: Luca	
+  surname: Mesiti	
+  affiliation: "University of Leeds" 
+- name: Elena	
+  surname: Caviglia	
+  affiliation: "University of Leicester" 
+- name: Matteo	
+  surname: Spadetto	
+  affiliation: "University of Leeds" 
+- name: Riccardo	
+  surname: Massidda	
+  affiliation: "Università di Pisa" 
+- name: Danilo	
+  surname: Numeroso	
+  affiliation: "Università di Pisa" 
+- name: Gabriele	
+  surname: Lobbia	
+  affiliation: "Masaryk University" 
+- name: Davide	
+  surname: Castelnovo	
+  affiliation: "Università degli Studi di Udine" 
+- name: Daniele	
+  surname: Palombi	
+  affiliation: "Sapienza - University of Rome" 
+- name: Ruben	
+  surname: Van Belle	
+  affiliation: "University of Edinburgh" 
+- name: Loe	
+  surname: van Montfort	
+  affiliation: "Utrecht University" 
+- name: Jacopo	
+  surname: Emmenegger	
+  affiliation: "Università di Genova" 
+- name: Matteo 	
+  surname: Doni	
+  affiliation: "Università di Milano" 
+- name: Samuele	
+  surname: Maschio	
+  affiliation: "Università di Padova" 
+- name: Giulio	
+  surname: Lo Monaco	
+  affiliation: "Masarykova univerzita" 
+- name: Sophie	
+  surname: "d'Espalungue"	
+  affiliation: "University of Lille" 
+- name: Alexander	
+  surname: Schmitt	
+  affiliaiton: "Freie Universität Berlin" 
+- name: Guido	
+  surname: Boccali	
+  affiliation: 
+- name: Stefano	
+  surname: Luneia	
+  affiliation: "Università di Bologna" 
+- name: Andrea	
+  surname: Corradini	
+  affiliation: "Università di Pisa" 
+- name: Giuseppe	
+  surname: Metere	
+  affiliation: "Università di Palermo" 
+- name: Alessio	
+  surname: Santamaria	
+  affiliaiton: "Università di Pisa" 
+- name: Alessandro 	
+  surname: Di Giorgio	
+  affiliation: "Università di Pisa" 
+- name: Davide	
+  surname: Trotta	
+  affiliation: "Università di Pisa" 
+- name: Laura	
+  surname: Bussi	
+  affiliation: "Università di Pisa" 
+- name: Filippo	
+  surname: Bonchi	
+  affiliation: "Università di Pisa" 
+- name: Fabio	
+  surname: Gadducci	
+  affiliation: "Università di Pisa" 
+- name: Francesco	
+  surname: Gavazzo	
+  affiliation: "Università di Pisa" 
+- name: Marco	
+  surname: Maggesi	
+  affiliation: "Università di Firenze" 
+- name: Fabio	
+  surname: Zanasi	
+  affiliation: "University College London" 
+- name: Fosco	
+  surname: Loregian	
+  affiliation: "Tallinn University of Technology" 
+- name: Marco	
+  surname: Abbadini	
+  affiliation: "Università di Salerno" 
+
