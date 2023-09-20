@@ -1,10 +1,10 @@
 ---
-title: 3rd ItaCa Workshop 
+title: 4th ItaCa Workshop 
 
 layout: home
 ---
 
-The 3rd ItaCa Workshop will take place in Pisa, Italy, on 21-22 December.
+The 4th ItaCa Workshop will take place in Turin, Italy, on 18-19 December 2023. 
 
 ItaCa Workshop is a series of short workshops organized by [ItaCa](https://progetto-itaca.github.io), the Italian community of category theorists. The focus lies on the development and applications of category theory.
 
@@ -16,15 +16,14 @@ The workshop will take place in person, but we plan to stream the talks on the I
 
 ## Important Dates
 
-|**Submission deadline**  | 20 November 2022    |
-|**Notification date**  | 1 December 2022    |
-|**Registration deadline**| 5 December 2022    |
-|**Workshop**             | 21-22 December 2022 |
+|**Submission deadline**  | TBA |
+|**Notification date**  | TBA    |
+|**Registration deadline**| TBA |
+|**Workshop**             | 18-19 December 2023 |
 
 
 ## Invited Speakers
-* [Marco Maggesi](https://sites.google.com/unifi.it/maggesi/) (Università di Firenze) 
-* [Fabio Zanasi](http://www.zanasi.com/fabio/#/main.html) (University College London)
+TBA 
 
 ## Contacts 
 
@@ -32,23 +31,15 @@ For inquiries, please send an e-mail to one of the organisers.
 
 
 ## Program Committee
-* [Francesco Dagnino](https://fdgn.github.io) (Università di Genova) 
-* [Francesco Gavazzo](https://sites.google.com/view/francescogavazzo/home) (Università di Pisa)
-* [Serafina Lapenta](https://serafinalapenta.weebly.com) (Università del Salerno)
-* [Vincenzo Marra](http://marra.di.unimi.it) (Università di Milano)
-* [Samuele Maschio](https://sites.google.com/view/samuelemaschio/home) (Università di Padova)
-* [Davide Trotta](https://trottadavide.github.io/) (Università di Pisa)
+TBA 
 
 ## Organising Committee 
-* [Davide Trotta](https://www.di.univr.it/?ent=persona&id=42247&lang=en)  (Università di Pisa)  
-e-mail: davide [dot] trotta [at] di [dot] unipi [dot] it 
-* [Francesco Gavazzo](https://sites.google.com/view/francescogavazzo/home) (Università di Pisa)  
-e-mail: francesco [dot] gavazzo [at] unipi [dot] it
-* Luara Bussi (Università di Pisa) 
-* [Fabio Gadducci](https://pages.di.unipi.it/gadducci/) (Università di Pisa)  
-* Filippo Bonchi (Università di Pisa)  
-* Alessandro Di Giorgio (Università di Pisa)  
+TBA 
 
+## Past Editions 
+* [ItaCa 2022](https://progetto-itaca.github.io/ItaCa-22/) 
+* [ItaCa 2021](https://genoa-logic-group.github.io/itaca-workshop-2021/)
+* [ItaCa 2019](http://www.mat.unimi.it/users/itaca/) 
 
 
 
