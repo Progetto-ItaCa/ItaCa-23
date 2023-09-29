@@ -16,10 +16,10 @@ The workshop will take place in person, but we plan to stream the talks on the I
 
 ## Important Dates
 
-|**Submission deadline**  | TBA |
-|**Notification date**  | TBA    |
-|**Registration deadline**| TBA |
-|**Workshop**             | 18-19 December 2023 |
+|**Submission deadline**   | 10 November 2023    |
+|**Notification date**     | 17 November 2023    |
+|**Registration deadline** | 24 November 2023    |
+|**Workshop**              | 18-19 December 2023 |
 
 
 ## Invited Speakers
@@ -31,10 +31,16 @@ For inquiries, please send an e-mail to one of the organisers.
 
 
 ## Program Committee
-TBA 
+* Alan Cigoli (Università di Torino) - chair 
+* Fosco Loregian (Tallinn University of Tecnology) 
+* Giuseppe Metere (Università di Palermo) 
 
 ## Organising Committee 
-TBA 
+* Alessandro Ardizzoni (Università di Torino) 
+* Lucrezia Bottegoni (Università di Torino) 
+* Alan Cigoli (Università di Torino) 
+* Francesco Dagnino (Università di Genova) 
+* Andrea Sciandra (Università di Torino) 
 
 ## Past Editions 
 * [ItaCa 2022](https://progetto-itaca.github.io/ItaCa-22/) 
