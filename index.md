@@ -10,8 +10,7 @@ ItaCa Workshop is a series of short workshops organized by [ItaCa](https://proge
 
 Students and early career researchers are particularly encouraged to attend and to submit talk proposals.
 
-The workshop will take place in person, but we plan to stream the talks on the ItaCa Youtube channel. We also plan to register the talks and to upload them on the ItaCa YouTube channel.
-
+The workshop will take place in person.
 
 
 ## Important Dates
@@ -21,9 +20,6 @@ The workshop will take place in person, but we plan to stream the talks on the I
 |**Registration deadline** | 24 November 2023    |
 |**Workshop**              | 18-19 December 2023 |
 
-
-## Invited Speakers
-TBA 
 
 ## Contacts 
 
