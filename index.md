@@ -32,7 +32,7 @@ For inquiries, please send an e-mail to one of the organisers.
 
 ## Program Committee
 * Alan Cigoli (Università di Torino) - chair 
-* Fosco Loregian (Tallinn University of Tecnology) 
+* Fosco Loregian (Tallinn University of Technology) 
 * Giuseppe Metere (Università di Palermo) 
 
 ## Organising Committee 
