@@ -21,6 +21,10 @@ The workshop will take place in person.
 |**Workshop**              | 18-19 December 2023 |
 
 
+## Submissions
+
+Instructions for submitting a talk proposal are available [here]({{ '/register-submit/' | relative_url }}). 
+
 ## Contacts 
 
 For inquiries, please send an e-mail to one of the organisers. 
@@ -32,9 +36,11 @@ For inquiries, please send an e-mail to one of the organisers.
 * Giuseppe Metere (Università di Palermo) 
 
 ## Organising Committee 
-* Alessandro Ardizzoni (Università di Torino) 
+* Alessandro Ardizzoni (Università di Torino)  
+  email: alessandro [dot] ardizzoni [at] unito [dot] it 
 * Lucrezia Bottegoni (Università di Torino) 
-* Alan Cigoli (Università di Torino) 
+* Alan Cigoli (Università di Torino)  
+  email: alan [dot] cigoli [at] unito [dot] it 
 * Francesco Dagnino (Università di Genova) 
 * Andrea Sciandra (Università di Torino) 
 
