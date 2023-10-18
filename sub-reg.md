@@ -15,8 +15,7 @@ Some funding is available to provide accommodation for speakers, with a preferen
 
 ## Submission of talk proposals
 
-If you want to give a talk, please submit an abstract (max 1 page in
-pdf) to:
+If you want to give a talk, please submit an abstract (max 1 page in pdf excluding references), by sending an email to 
 
 alan [dot] cigoli [at] unito [dot] it
 
