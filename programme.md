@@ -14,19 +14,15 @@ To attend the workshop remotely, use the following links
 
 <br> 
 
-{%- assign abs_url = '/assets/abstracts/' %} 
+{%- assign abs_url = '/assets/abstracts/pdf/' %} 
 
 <table>
   <tbody> 
-{%- for d in site.data.schedule %}
+{%- for d in site.data.schedule23 %}
 <tr> <th colspan="2"> {{ d.day }} </th> </tr> 
 {%- for slot in d.slots %}
 {%- if slot.type == "talk" %} 
-{%- if slot.invited %} 
-{%- assign talks = site.data.talks.invited | where_exp: "item", "item.slot == slot.id" %} 
-{%- else %} 
 {%- assign talks = site.data.talks.accepted | where_exp: "item", "item.slot == slot.id" %} 
-{%- endif %}
 {%- for t in talks %} 
 <tr>
   <td> {{ slot.time }} </td>

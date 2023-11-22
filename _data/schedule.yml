@@ -1,4 +1,4 @@
-- day: "Wednesday 21 December" 
+- day: "December 18" 
   slots: 
   - type: "opening" 
     time: "09.20 - 09.30" 
@@ -42,11 +42,9 @@
   - type: "talk" 
     id: "4c" 
     time: "17.00 - 17.30" 
-  - type: "guided tour to the museum of computing machinery" 
-    time: "19.00 - 20.00" 
   - type: "social dinner" 
     time: "20.00 - ..." 
-- day: "Thursday 22 December" 
+- day: "December 19" 
   slots: 
   - type: "talk" 
     invited: true
