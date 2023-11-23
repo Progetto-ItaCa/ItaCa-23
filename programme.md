@@ -18,7 +18,7 @@ layout: page
 
 <table>
   <tbody> 
-{%- for d in site.data.schedule23 %}
+{%- for d in site.data.schedule %}
 <tr> <th colspan="2"> {{ d.day }} </th> </tr> 
 {%- for slot in d.slots %}
 {%- if slot.type == "talk" %} 
