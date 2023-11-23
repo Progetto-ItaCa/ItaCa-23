@@ -89,7 +89,7 @@ accepted:
     abs: ralaivaosaona.pdf
     slot: "5c" 
     video: 
-  - author: Ule Reimaa
+  - author: "Ülo Reimaa" 
     affiliation: 
     title: Extensions and adjoint split extensions in the 2-category of adjunctions 
     abs: reimaa.pdf
