@@ -11,8 +11,8 @@ accepted:
     abs: dagnino.pdf 
     slot: "6c" 
     video: 
-  - author: Doni
-    affiliation: ""
+  - author: Matteo Doni
+    affiliation: 
     title: Enriched infinity-categories 
     abs: doni.pdf
     slot: "6a" 
@@ -30,7 +30,7 @@ accepted:
     slot: "3a" 
     video: 
   - author: Gabriele Lobbia
-    affiliation: ""
+    affiliation: 
     title: "2-dimensional aspects of the theory of sketches" 
     abs: lobbia.pdf
     slot: "1b" 
@@ -42,7 +42,7 @@ accepted:
     slot: "3c" 
     video: 
   - author: Antonio Lorenzin
-    affiliation: ""
+    affiliation: 
     title: Representability in Categorical Quantum Probability
     abs: lorenzin.pdf
     slot: "5b" 
@@ -60,7 +60,7 @@ accepted:
     slot: "2c" 
     video: 
   - author: Federico Olimpieri
-    affiliation: ""
+    affiliation: 
     title: Coherence by Normalization for Linear Multicategories 
     abs: olimpieri.pdf 
     slot: "3b" 
@@ -78,7 +78,7 @@ accepted:
     slot: "5a" 
     video: 
   - author: Claudio Pisani
-    affiliation: ""
+    affiliation: 
     title: An unbiased approach to symmetry 
     abs: pisani.pdf
     slot: "4a" 
@@ -90,7 +90,7 @@ accepted:
     slot: "5c" 
     video: 
   - author: Ule Reimaa
-    affiliation: ""
+    affiliation: 
     title: Extensions and adjoint split extensions in the 2-category of adjunctions 
     abs: reimaa.pdf
     slot: "2a" 
@@ -102,7 +102,7 @@ accepted:
     slot: "1a" 
     video: 
   - author: Joshua Wrigley
-    affiliation: ""
+    affiliation: 
     title: A cylindrical Diaconescu’s equivalence
     abs: wrigly.pdf
     slot: "1c" 

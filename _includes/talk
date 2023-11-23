@@ -1,7 +1,7 @@
 {% if t.url %}
 [{{ t.author }}]({{ t.url }}) ({{ t.affiliation }})  
 {% else %}
-{{ t.author }} ({{ t.affiliation }})  
+{{ t.author }} {%- if t.affiliation %} ({{ t.affiliation }}) {%- endif %}  
 {% endif -%}  
 **{{ t.title }}** <br/> 
 {%- if t.abs %}
