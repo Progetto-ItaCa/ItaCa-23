@@ -5,7 +5,7 @@ permalink: /programme/
 layout: page
 ---
 
-{%- assign abs_url = '/assets/abstracts/pdf/' %} 
+{%- assign abs_url = '/assets/abstracts/' %} 
 {%- if site.data.talks.invited %} 
   {%- assign all_talks = site.data.talks.accepted | concat: site.data.talks.invited %}
 {%- else %}
