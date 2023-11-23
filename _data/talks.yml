@@ -1,109 +1,109 @@
 accepted:
-  - author: Tendas
-    affiliation: ""
-    title: ""
-    abs: file.pdf
-    slot: "1a" 
-    video: file.mp4
-  - author: Lobbia
-    affiliation: ""
-    title: ""
-    abs: file.pdf
-    slot: "1b" 
-    video: file.mp4
-  - author: Wrigley
-    affiliation: ""
-    title: ""
-    abs: file.pdf
-    slot: "1c" 
-    video: file.mp4
-  - author: Reimaa
-    affiliation: ""
-    title: ""
-    abs: file.pdf
-    slot: "2a" 
-    video: file.mp4
-  - author: Mancini
-    affiliation: ""
-    title: ""
-    abs: file.pdf
-    slot: "2b" 
-    video: file.mp4
-  - author: Maschio
-    affiliation: ""
-    title: ""
-    abs: file.pdf
-    slot: "2c" 
-    video: file.mp4
-  - author: Hadzihasanovic
-    affiliation: ""
-    title: ""
-    abs: file.pdf
-    slot: "3a" 
-    video: file.mp4
-  - author: Olimpieri
-    affiliation: ""
-    title: ""
-    abs: file.pdf
-    slot: "3b" 
-    video: file.mp4
-  - author: Loregian
-    affiliation: ""
-    title: ""
-    abs: file.pdf
-    slot: "3c" 
-    video: file.mp4
-  - author: Pisani
-    affiliation: ""
-    title: ""
-    abs: file.pdf
-    slot: "4a" 
-    video: file.mp4
-  - author: Caviglia
-    affiliation: ""
-    title: ""
-    abs: file.pdf
+  - author: Elena Caviglia
+    affiliation: University of Leicester 
+    title: "A notion of 2-stack"
+    abs: caviglia.pdf 
     slot: "4b" 
-    video: file.mp4
-  - author: Mesiti
-    affiliation: ""
-    title: ""
-    abs: file.pdf
-    slot: "4c" 
-    video: file.mp4
-  - author: Perrone
-    affiliation: ""
-    title: ""
-    abs: file.pdf
-    slot: "5a" 
-    video: file.mp4
-  - author: Lorenzin
-    affiliation: ""
-    title: ""
-    abs: file.pdf
-    slot: "5b" 
-    video: file.mp4
-  - author: Ralaivaosaona
-    affiliation: ""
-    title: ""
-    abs: file.pdf
-    slot: "5c" 
-    video: file.mp4
+    video: 
+  - author: Francesco Dagnino
+    affiliation: Università di Genova 
+    title: "Quotients, extensionality and choice in Relational doctrines" 
+    abs: dagnino.pdf 
+    slot: "6c" 
+    video: 
   - author: Doni
     affiliation: ""
-    title: ""
-    abs: file.pdf
+    title: Enriched infinity-categories 
+    abs: doni.pdf
     slot: "6a" 
-    video: file.mp4
-  - author: Ghiorzi
-    affiliation: ""
-    title: ""
-    abs: file.pdf
+    video: 
+  - author: Enrico Ghiorzi
+    affiliation: Università di Genova 
+    title: Relation Transformers 
+    abs: ghiorzi.pdf
     slot: "6b" 
-    video: file.mp4
-  - author: Dagnino
+    video: 
+  - author: Amar Hadzihasanovic
+    affiliation: "Quantinum & Tallinn University of Technology" 
+    title: The homotopy poset of a category 
+    abs: hadzihasanovic.pdf
+    slot: "3a" 
+    video: 
+  - author: Gabriele Lobbia
     affiliation: ""
-    title: ""
-    abs: file.pdf
-    slot: "6c" 
-    video: file.mp4
+    title: "2-dimensional aspects of the theory of sketches" 
+    abs: lobbia.pdf
+    slot: "1b" 
+    video: 
+  - author: Fosco Loregian
+    affiliation: Tallinn University of Technology 
+    title: "Welcome to the machine: a tale of bicategories, with a hint of British prog" 
+    abs: loregian.pdf
+    slot: "3c" 
+    video: 
+  - author: Antonio Lorenzin
+    affiliation: ""
+    title: Representability in Categorical Quantum Probability
+    abs: lorenzin.pdf
+    slot: "5b" 
+    video: 
+  - author: Manuel Mancini
+    affiliation: Università di Palermo 
+    title: Weak representability of actions of non-associative algebras
+    abs: mancini.pdf
+    slot: "2b" 
+    video: 
+  - author: Samuele Maschio
+    affiliation: Università di Padova 
+    title: On some categorical structures arising from implicative algebras 
+    abs: maschio.pdf
+    slot: "2c" 
+    video: 
+  - author: Federico Olimpieri
+    affiliation: ""
+    title: Coherence by Normalization for Linear Multicategories 
+    abs: olimpieri.pdf 
+    slot: "3b" 
+    video: 
+  - author: Luca Mesiti
+    affiliation: University of Leeds 
+    title: Indexed Grothendieck Construction 
+    abs: mesiti.pdf
+    slot: "4c" 
+    video: 
+  - author: Paolo Perrone
+    affiliation: University of Oxford 
+    title: Conditional expectation as split idempotents 
+    abs: perrone.pdf
+    slot: "5a" 
+    video: 
+  - author: Claudio Pisani
+    affiliation: ""
+    title: An unbiased approach to symmetry 
+    abs: pisani.pdf
+    slot: "4a" 
+    video: 
+  - author: Tanjona Ralaivaosaona
+    affiliation: "LIACS, Leiden University" 
+    title: Composition and Recursion for Causal and Uniformly Continuous Structures 
+    abs: ralaivaosaona.pdf
+    slot: "5c" 
+    video: 
+  - author: Ule Reimaa
+    affiliation: ""
+    title: Extensions and adjoint split extensions in the 2-category of adjunctions 
+    abs: reimaa.pdf
+    slot: "2a" 
+    video: 
+  - author: Giacomo Tendas
+    affiliation: Masarykova Univerzita
+    title: On continuity of functors between locally presentable categories 
+    abs: tendas.pdf
+    slot: "1a" 
+    video: 
+  - author: Joshua Wrigley
+    affiliation: ""
+    title: A cylindrical Diaconescu’s equivalence
+    abs: wrigly.pdf
+    slot: "1c" 
+    video: 

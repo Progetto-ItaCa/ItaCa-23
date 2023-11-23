@@ -6,7 +6,11 @@ layout: page
 ---
 
 {%- assign abs_url = '/assets/abstracts/pdf/' %} 
-{%- assign all_talks = site.data.talks.accepted | concat: site.data.talks.invited %}
+{%- if site.data.talks.invited %} 
+  {%- assign all_talks = site.data.talks.accepted | concat: site.data.talks.invited %}
+{%- else %}
+  {%- assign all_talks = site.data.talks.accepted %}
+{%- endif %} 
 
 **Note**: all coffee breaks and the lunch on the first day are offered by the organisation 
 
