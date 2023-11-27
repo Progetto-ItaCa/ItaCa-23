@@ -12,7 +12,7 @@ layout: page
   {%- assign all_talks = site.data.talks.accepted %}
 {%- endif %} 
 
-**Note**: all coffee breaks and the lunch on the first day are offered by the organisation 
+**Note**: all coffee breaks are offered by the organisation, while the lunch is not. 
 
 <br> 
 
