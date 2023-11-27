@@ -12,6 +12,8 @@ Students and early career researchers are particularly encouraged to attend and 
 
 The workshop will take place in person.
 
+*Registration is now closed.* If you wish to participate, contact he organisers. 
+
 
 ## Important Dates
 
