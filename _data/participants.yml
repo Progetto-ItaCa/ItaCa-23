@@ -64,12 +64,6 @@
 - name: Amar
   surname: Hadzihasanovic
   affiliation: Tallinn University of Technology
-- name: Stefano
-  surname: Kasangian
-  affiliation: 
-- name: Edoardo
-  surname: Lanari
-  affiliation: Capital Fund Management
 - name: Andrea
   surname: Laretto
   affiliation: Tallinn University of Technology
@@ -109,9 +103,6 @@
 - name: Marcella
   surname: Palese
   affiliation: University of Torino 
-- name: Daniele
-  surname: Palombi
-  affiliation: 
 - name: Marco
   surname: Panzeri
   affiliation: Univesità degli Studi dell'Insubria 
@@ -121,9 +112,6 @@
 - name: Claudio
   surname: Pisani
   affiliation: Liceo Gioberti 
-- name: Francesca
-  surname: Pratali
-  affiliation: Université Sorbonne Paris Nord 
 - name: Tanjona
   surname: Ralaivaosaona 
   affiliation: "LIACS, Leiden University" 
@@ -142,18 +130,12 @@
 - name: Paolo
   surname: Saracco
   affiliation: ULB - Université Libre de Bruxelles 
-- name: Chiara
-  surname: Sava
-  affiliation: Charles University (Prague) 
 - name: Andrea
   surname: Sciandra
   affiliation: Università di Torino 
 - name: Matteo
   surname: Spadetto
   affiliation: University of Leeds 
-- name: Lorenzo
-  surname: Tasca
-  affiliation: Unimib 
 - name: Giacomo
   surname: Tendas
   affiliation: Masarykova Univerzita 
