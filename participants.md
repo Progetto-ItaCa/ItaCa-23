@@ -5,7 +5,7 @@ permalink: /Participants/
 layout: page
 ---
 
-{% assign ps = site.data.participants | sort: 'surname' %}
+{% assign ps = site.data.participants  %}
 
 {% for p in ps %}
 {% if p.affiliation %}
